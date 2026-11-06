@@ -6,15 +6,15 @@
 
 ### Red Teamer | Offensive Security | Bug Bounty Hunter
 
-<a href="https://profile.hackthebox.com/profile/019eff6a-53c1-721f-a94e-f459c94dfc1f"><img src="https://img.shields.io/badge/HACK_THE_BOX-PROFILE-00FF41?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=000000" alt="HTB"/></a>
-<a href="https://github.com/BLOODRAVENIST"><img src="https://img.shields.io/badge/RED_TEAMER-ACTIVE-FF0040?style=for-the-badge&labelColor=000000" alt="Red Teamer"/></a>
-<a href="https://github.com/BLOODRAVENIST"><img src="https://img.shields.io/badge/BUG_BOUNTY-HUNTING-9F4FFF?style=for-the-badge&labelColor=000000" alt="Bug Bounty"/></a>
-<a href="https://buymeacoffee.com/bloodravenist"><img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" alt="Coffee"/></a>
+<a href="https://profile.hackthebox.com/profile/019eff6a-53c1-721f-a94e-f459c94dfc1f"><img src="https://img.shields.io/badge/Hack_The_Box-PROFILE-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=111927" alt="Hack The Box"/></a>
+<img src="https://img.shields.io/badge/Red_Teamer-ACTIVE-FF0040?style=flat-square&labelColor=000000" alt="Red Teamer"/>
+<img src="https://img.shields.io/badge/Bug_Bounty-HUNTING-9F4FFF?style=flat-square&labelColor=000000" alt="Bug Bounty"/>
+<a href="https://buymeacoffee.com/bloodravenist"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-SUPPORT-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" alt="Coffee"/></a>
 
-<img src="https://img.shields.io/github/followers/BLOODRAVENIST?style=for-the-badge&logo=github&color=00FF41&labelColor=000000&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/badge/REPOS-7-9F4FFF?style=for-the-badge&logo=github&labelColor=000000" alt="Repos"/>
-<img src="https://img.shields.io/badge/STARS-5-A855F7?style=for-the-badge&logo=github&labelColor=000000" alt="Stars"/>
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-47+-FF0040?style=for-the-badge&logo=github&labelColor=000000" alt="Contributions"/>
+<img src="https://img.shields.io/github/followers/BLOODRAVENIST?style=flat-square&logo=github&color=00FF41&labelColor=000000&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/badge/Repos-7-00FF41?style=flat-square&logo=github&labelColor=000000" alt="Repos"/>
+<img src="https://img.shields.io/badge/Stars-5-00FF41?style=flat-square&logo=github&labelColor=000000" alt="Stars"/>
+<img src="https://img.shields.io/badge/Contributions-47+-00FF41?style=flat-square&logo=github&labelColor=000000" alt="Contributions"/>
 
 </div>
 
@@ -43,75 +43,46 @@ STATUS  = Authorized offensive operations only
 
 ## Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Web Application Exploitation**
-- SQL Injection (Error / Blind / Time-based)
-- XSS (Reflected / Stored / DOM)
-- IDOR / Broken Access Control
-- SSRF / CSRF / XXE
-- File Upload to RCE
-- Authentication & Session Bypass
-
-**Network & Infrastructure**
-- Port Scanning & Service Enumeration
-- SMB / LDAP / Kerberos Exploitation
-- NTLM Relay & Pass-the-Hash
-- MITM & Traffic Analysis
-
-</td>
-<td width="50%" valign="top">
-
-**Active Directory**
-- AD Enumeration (BloodHound / PowerView)
-- Kerberoasting / AS-REP Roasting
-- LSASS Dumping
-- Privilege Escalation (Linux / Windows)
-- Lateral Movement
-
-**Red Team Operations**
-- Reconnaissance & OSINT
-- Exploit Development (C / Python)
-- Buffer Overflow & Memory Corruption
-- Custom Tooling & Automation
-- CTF & Real-World Exploitation
-
-</td>
-</tr>
-</table>
+| Offensive | Defensive / Ops |
+|---|---|
+| SQL Injection (Error / Blind / Time-based) | Port Scanning & Enumeration |
+| XSS (Reflected / Stored / DOM) | SMB / LDAP / Kerberos Exploitation |
+| IDOR / Broken Access Control | NTLM Relay & Pass-the-Hash |
+| SSRF / CSRF / XXE | MITM & Traffic Analysis |
+| File Upload to RCE | AD Enumeration (BloodHound / PowerView) |
+| Auth & Session Bypass | Kerberoasting / AS-REP Roasting |
+| Exploit Development (C / Python) | LSASS Dumping |
+| Buffer Overflow & Memory Corruption | Privilege Escalation (Linux / Windows) |
+| Custom Tooling & Automation | Lateral Movement |
+| CTF & Real-World Exploitation | Reconnaissance & OSINT |
 
 ---
 
 ## Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+
+**Hack The Box**
+
+<img src="https://img.shields.io/badge/CPTS-HTB_Certified_Penetration_Testing_Specialist-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=111927" alt="CPTS"/>
+<img src="https://img.shields.io/badge/HTB-Hack_The_Box_Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=111927" alt="HTB"/>
 
 **Offensive Security**
 
-<img src="https://img.shields.io/badge/eJPT-INE_Certified-00FF41?style=for-the-badge&labelColor=000000" alt="eJPT"/>
-<img src="https://img.shields.io/badge/CPENT-EC--Council-FF0040?style=for-the-badge&labelColor=000000" alt="CPENT"/>
-<img src="https://img.shields.io/badge/LPT-EC--Council-FF0040?style=for-the-badge&labelColor=000000" alt="LPT"/>
-<img src="https://img.shields.io/badge/EWPTX-INE_Certified-00FF41?style=for-the-badge&labelColor=000000" alt="EWPTX"/>
-<img src="https://img.shields.io/badge/CPTS-HTB_Certified-9F4FFF?style=for-the-badge&labelColor=000000" alt="CPTS"/>
-
-</td>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/eJPT-INE_Certified-00FF41?style=flat-square&labelColor=000000" alt="eJPT"/>
+<img src="https://img.shields.io/badge/CPENT-EC--Council-FF0040?style=flat-square&labelColor=000000" alt="CPENT"/>
+<img src="https://img.shields.io/badge/LPT-EC--Council-FF0040?style=flat-square&labelColor=000000" alt="LPT"/>
+<img src="https://img.shields.io/badge/EWPTX-INE_Certified-00FF41?style=flat-square&labelColor=000000" alt="EWPTX"/>
 
 **Additional**
 
-<img src="https://img.shields.io/badge/CLLM_SE-Red_Team_Leaders-FF0040?style=for-the-badge&labelColor=000000" alt="CLLM SE"/>
-<img src="https://img.shields.io/badge/ICCA-INE_Certified-00FF41?style=for-the-badge&labelColor=000000" alt="ICCA"/>
-<img src="https://img.shields.io/badge/TryHackMe-Offensive_Path-9F4FFF?style=for-the-badge&logo=tryhackme&labelColor=000000" alt="THM"/>
-<img src="https://img.shields.io/badge/TCM_Security-Linux_Fundamentals-00FF41?style=for-the-badge&labelColor=000000" alt="TCM"/>
-<img src="https://img.shields.io/badge/Craw_Security-Advanced_Networking-9F4FFF?style=for-the-badge&labelColor=000000" alt="Craw"/>
+<img src="https://img.shields.io/badge/CLLM_SE-Red_Team_Leaders-FF0040?style=flat-square&labelColor=000000" alt="CLLM SE"/>
+<img src="https://img.shields.io/badge/ICCA-INE_Certified-00FF41?style=flat-square&labelColor=000000" alt="ICCA"/>
+<img src="https://img.shields.io/badge/TryHackMe-Offensive_Path-9F4FFF?style=flat-square&logo=tryhackme&labelColor=000000" alt="THM"/>
+<img src="https://img.shields.io/badge/TCM_Security-Linux_Fundamentals-00FF41?style=flat-square&labelColor=000000" alt="TCM"/>
+<img src="https://img.shields.io/badge/Craw_Security-Advanced_Networking-9F4FFF?style=flat-square&labelColor=000000" alt="Craw"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -131,22 +102,12 @@ STATUS  = Authorized offensive operations only
 
 | Project | Scale | Description |
 |---|---|---|
-| [FTBUGRECON](https://github.com/BLOODRAVENIST/FTBUGRECON) | 500+ tools | God of Bug Bounty Recon - C binary, purple banner |
-| [FTWEBRC](https://github.com/BLOODRAVENIST/FTWEBRC) | 75+ tools | God of Bug Bounty Enumeration - pure C |
-| [FTRIYANA](https://github.com/BLOODRAVENIST/FTRIYANA) | AI-powered | Deep Internal Recon - AI-driven pentesting |
-| [FTJIYANA](https://github.com/BLOODRAVENIST/FTJIYANA) | 40+ tools | External Web Pentesting - 19 phases |
-| [FTLAMBDA](https://github.com/BLOODRAVENIST/FTLAMBDA) | 300+ dirs | Pentest Lab Generator - pure C |
-| [FTWEB_X](https://github.com/BLOODRAVENIST/FTWEB_X) | Web GUI | Browser GUI for FTBUGRECON |
-
----
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BLOODRAVENIST/BLOODRAVENIST/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BLOODRAVENIST/BLOODRAVENIST/output/github-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/BLOODRAVENIST/BLOODRAVENIST/output/github-snake.svg" width="100%">
-</picture>
+| [FTBUGRECON](https://github.com/BLOODRAVENIST/FTBUGRECON) | `500+ tools` | God of Bug Bounty Recon — C binary, purple banner |
+| [FTWEBRC](https://github.com/BLOODRAVENIST/FTWEBRC) | `75+ tools` | God of Bug Bounty Enumeration — pure C |
+| [FTRIYANA](https://github.com/BLOODRAVENIST/FTRIYANA) | `AI-powered` | Deep Internal Recon — AI-driven pentesting |
+| [FTJIYANA](https://github.com/BLOODRAVENIST/FTJIYANA) | `40+ tools` | External Web Pentesting — 19 phases |
+| [FTLAMBDA](https://github.com/BLOODRAVENIST/FTLAMBDA) | `300+ dirs` | Pentest Lab Generator — pure C |
+| [FTWEB_X](https://github.com/BLOODRAVENIST/FTWEB_X) | `Web GUI` | Browser GUI for FTBUGRECON — animated UI |
 
 ---
 
@@ -154,9 +115,9 @@ STATUS  = Authorized offensive operations only
 
 > "Recon is not about tools. It's about seeing what others don't."
 >
-> "Every system has a weakness. My job is to find it - before someone else does."
+> "Every system has a weakness. My job is to find it — before someone else does."
 >
-> "The quieter you become, the more you are able to hear." - Kali
+> "The quieter you become, the more you are able to hear." — Kali
 
 ---
 
@@ -164,7 +125,7 @@ STATUS  = Authorized offensive operations only
 
 > **ALL RESEARCH IS FOR AUTHORIZED OFFENSIVE SECURITY ONLY**
 >
-> Authorized bug bounty scopes - Lab environments - Written-permission pentests
+> Authorized bug bounty scopes | Lab environments | Written-permission pentests
 >
 > Unauthorized access is illegal under CFAA, Computer Misuse Act, IT Act, and similar laws worldwide.
 
@@ -172,12 +133,16 @@ STATUS  = Authorized offensive operations only
 
 <div align="center">
 
-<a href="https://github.com/BLOODRAVENIST"><img src="https://img.shields.io/badge/GitHub-BLOODRAVENIST-00FF41?style=for-the-badge&logo=github&labelColor=000000" alt="GitHub"/></a>
-<a href="https://profile.hackthebox.com/profile/019eff6a-53c1-721f-a94e-f459c94dfc1f"><img src="https://img.shields.io/badge/Hack_The_Box-PROFILE-FF0040?style=for-the-badge&logo=hackthebox&labelColor=000000" alt="HTB"/></a>
-<a href="https://buymeacoffee.com/bloodravenist"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-SUPPORT-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" alt="Coffee"/></a>
+<a href="https://github.com/BLOODRAVENIST"><img src="https://img.shields.io/badge/GitHub-BLOODRAVENIST-00FF41?style=flat-square&logo=github&labelColor=000000" alt="GitHub"/></a>
+<a href="https://profile.hackthebox.com/profile/019eff6a-53c1-721f-a94e-f459c94dfc1f"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=white&labelColor=111927" alt="HTB"/></a>
+<a href="https://buymeacoffee.com/bloodravenist"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" alt="Coffee"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:FF0040&height=100&section=footer&text=BLOODRAVENIST&fontSize=36&fontColor=00FF41&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:00FF41,100:9FEF00&height=100&section=footer&text=BLOODRAVENIST&fontSize=34&fontColor=00FF41&animation=twinkling" width="100%"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=BLOODRAVENIST&label=PROFILE+VIEWS&color=00FF41&style=flat-square" alt="Views"/>
 
 </div>
