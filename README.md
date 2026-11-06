@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=2000&pause=600&color=9F4FFF&center=true&vCenter=true&multiline=true&width=900&height=180&lines=%F0%9F%92%80+BLOODRAVENIST;Red+Teamer+%7C+Offensive+Security;Bug+Bounty+Hunter;Exploit+Developer;Made+for+the+Shadows." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=52&duration=1800&pause=500&color=9F4FFF&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=%F0%9F%A9%B8+BLOODRAVENIST;Red+Teamer+%7C+Offensive+Security;Bug+Bounty+Hunter+%7C+Exploit+Dev;The+Shadows+Are+Mine." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Breaking+things+to+make+them+safer.;1000%25+Offensive.;No+Scripts.+Pure+Exploits.;Red+Team+Ops+in+the+Dark." alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=700&color=A855F7&center=true&vCenter=true&width=800&lines=Breaking+systems+to+make+them+safer.;1000%25+Offensive.;No+Scripts.+Pure+Exploits.;Red+Team+Ops+in+the+Dark.;I+see+what+others+don%27t." alt="Subtitle" />
 
 <br/><br/>
 
@@ -19,6 +19,9 @@
 </a>
 <a href="https://github.com/BLOODRAVENIST">
   <img src="https://img.shields.io/badge/💀_MODE-PURE_OFFENSIVE-FF0040?style=for-the-badge&labelColor=0a0a0f" alt="Mode"/>
+</a>
+<a href="https://github.com/BLOODRAVENIST">
+  <img src="https://img.shields.io/badge/🩸_VIBE-BLACKHAT-FF0040?style=for-the-badge&labelColor=0a0a0f" alt="Vibe"/>
 </a>
 
 <br/><br/>
@@ -399,8 +402,6 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9F4FFF&height=150&section=footer&text=Bloodravenist&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Red+Teamer+%7C+Offensive+Security+%7C+Bug+Bounty&descAlignY=65&descSize=18" width="100%"/>
-
-</div>
 
 </div>
 
