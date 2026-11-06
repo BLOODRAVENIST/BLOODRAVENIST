@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="assets/hacker_glitch.gif" width="100%" alt="Hacker Glitch"/>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="divider"/>
 
 <br/>
@@ -54,13 +58,28 @@
 
 <table align="center">
 <tr>
-<td width="100%">
+<td width="30%" align="center">
+
+<img src="assets/anime_dark.gif" width="100%" alt="Dark Anime"/>
+
+<br/>
+
+<img src="assets/anonymous_mask.gif" width="100%" alt="Anonymous"/>
+
+</td>
+<td width="70%" valign="top">
+
+<img src="assets/hacker_wave.gif" width="60" align="left" alt="Wave"/>
 
 > **BLOODRAVENIST** is an **Offensive Security Engineer & Red Teamer** with a singular obsession: **breaking systems before adversaries do**.
 
 > I build tools that **hunt, exploit, and dominate**. I don't run scripts — I **weaponize them**.
 
 > **This isn't a portfolio. It's a war chest.**
+
+<br/>
+
+<img src="assets/mrrobot.gif" width="100%" alt="Mr Robot"/>
 
 </td>
 </tr>
@@ -194,6 +213,14 @@
 
 <div align="center">
 
+<img src="assets/anime_eyes.gif" width="100%" alt="Anime Eyes"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="divider"/>
 
 ## 🔥 [ ARSENAL — PROJECTS ]
@@ -208,7 +235,7 @@
 
 <img src="https://img.shields.io/badge/500%2B-Tools-9F4FFF?style=for-the-badge&labelColor=1a1a2e" alt="500+"/>
 
-**God of Bug Bounty Recon** — 500+ tools in C with purple banner. Sequential enumeration, config-driven.
+**God of Bug Bounty Recon** — 500+ tools in C with purple banner.
 
 </td>
 <td width="50%" valign="top">
@@ -217,7 +244,7 @@
 
 <img src="https://img.shields.io/badge/75%2B-Tools-FF0040?style=for-the-badge&labelColor=1a1a2e" alt="75+"/>
 
-**God of Bug Bounty Enumeration** — 75+ tools, pure C. Raw speed. Zero dependencies.
+**God of Bug Bounty Enumeration** — 75+ tools, pure C.
 
 </td>
 </tr>
@@ -228,7 +255,7 @@
 
 <img src="https://img.shields.io/badge/AI--Powered-9F4FFF?style=for-the-badge&labelColor=1a1a2e" alt="AI"/>
 
-**Deep Internal Recon Framework** — AI-driven pentesting with 70+ tools. Smart planning.
+**Deep Internal Recon Framework** — AI-driven pentesting.
 
 </td>
 <td width="50%" valign="top">
@@ -237,7 +264,7 @@
 
 <img src="https://img.shields.io/badge/40%2B_Tools-A855F7?style=for-the-badge&labelColor=1a1a2e" alt="40+"/>
 
-**External Web Pentesting Framework** — Subdomains + URLs + fuzzing. 40+ tools, 19 phases.
+**External Web Pentesting Framework** — 40+ tools, 19 phases.
 
 </td>
 </tr>
@@ -248,7 +275,7 @@
 
 <img src="https://img.shields.io/badge/300%2B_Dirs-FF0040?style=for-the-badge&labelColor=1a1a2e" alt="300+"/>
 
-**Ultimate Pentest Lab Generator** — 300+ dirs, pure C. OSINT methodology.
+**Ultimate Pentest Lab Generator** — 300+ dirs, pure C.
 
 </td>
 <td width="50%" valign="top">
@@ -257,7 +284,7 @@
 
 <img src="https://img.shields.io/badge/Web_GUI-9F4FFF?style=for-the-badge&labelColor=1a1a2e" alt="GUI"/>
 
-**Web GUI for FTBUGRECON** — 500+ bug bounty tools with animated purple hacker UI.
+**Web GUI for FTBUGRECON** — 500+ bug bounty tools.
 
 </td>
 </tr>
@@ -281,6 +308,22 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLOODRAVENIST&layout=compact&theme=midnight-purple&bg_color=0a0a0f&hide_border=true&title_color=00FF41&text_color=c0c0c0" alt="Top Languages" width="60%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="divider"/>
+
+## 🐍 [ CONTRIBUTION SNAKE ]
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BLOODRAVENIST/BLOODRAVENIST/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake"/>
 
 </div>
 
@@ -344,8 +387,6 @@
 
 **Unauthorized access is illegal under CFAA, Computer Misuse Act, IT Act, and similar laws worldwide.**
 
-**Every line of code here was written to make the internet safer.**
-
 </div>
 
 <br/>
@@ -385,6 +426,10 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=900&size=36&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+OFFLINE+%5D;Access+Granted.;Welcome+to+the+Shadows.;Happy+Hunting+%F0%9F%8E%AF" alt="Footer" />
+
+<br/>
+
+<img src="assets/anime_glitch.gif" width="100%" alt="Anime Glitch"/>
 
 <br/>
 
